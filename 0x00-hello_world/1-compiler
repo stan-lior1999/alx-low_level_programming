@@ -1,5 +1,5 @@
 #!/bin/bash
-gcc  -c  $CFILE  .o
+gcc -c  $CFILE  .o
 
 
 
