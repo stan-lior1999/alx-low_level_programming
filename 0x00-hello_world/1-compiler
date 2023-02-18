@@ -1,5 +1,6 @@
 #!/bin/bash
-gcc  -c  $CFILE
+export CFILE=main.c
+
 
 
 
